@@ -1,2 +1,2 @@
 # Primavera
-Aprendendo Java SpringBoot -> https://spring.io/
+Aprendendo Spring -> https://spring.io/
